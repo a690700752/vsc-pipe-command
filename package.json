@@ -1,8 +1,9 @@
 {
   "name": "pipe-command",
+  "publisher": "tz59pk",
   "displayName": "Pipe Command",
   "description": "Pipe command and insert output",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": {
     "url": "https://github.com/a690700752/vsc-pipe-command"
   },
